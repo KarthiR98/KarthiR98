@@ -42,7 +42,8 @@
 - 🌐 [GitHub](https://github.com/KarthiR98)  
 
 ---
-
+<img src="https://media.giphy.com/media/QyztRQU3eM1gMhCmN3/giphy.gif" width="50" height="50" />
+---
 ### 📚 **Recent Projects**
 
 - 🌟 **OpenShift Cluster Provisioning and Configuration**  
