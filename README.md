@@ -38,8 +38,8 @@
 ### 🔗 **Connect with Me**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/karthi-r-dev/)  
-- 📧 [Email Me](mailto:karthirdev@gmail.com)  
-- 🌐 [GitHub](https://github.com/karthi-r-dev)  
+- 📧 [Email Me](mailto:karthikmails98@gmail.com)  
+- 🌐 [GitHub](https://github.com/KarthiR98)  
 
 ---
 
@@ -56,7 +56,7 @@
 ---
 
 ### 📝 **Fun Fact**  
-💡 I love solving complex problems and automating workflows to save time and resources!
+💡 I love Deployments of applications, solving complex problems and automating workflows to save time and resources!
 
 ---
 
